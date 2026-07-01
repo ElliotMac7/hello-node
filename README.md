@@ -2,14 +2,14 @@
 
 A simple Node.js greeting utility.
 
-## Instalation
+## Installation
 
 ```bash
 git clone https://github.com/ElliotMac7/hello-node.git
 cd hello-node
 ```
 
-## Useage
+## Usage
 
 ```js
 const { greet, farewell } = require('./index');
